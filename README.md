@@ -59,5 +59,3 @@ For questions or concerns regarding these Terms of Use, please contact us here: 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 By participating in the Railway Adventures Group, you acknowledge that you have read, understood, and agree to abide by these Terms of Use. Thank you for being a part of our community!
-
-COMMUNITY STANDARDS: https://github.com/RMRRailfanner/RA.Community.Standards/blob/421d0980c98a90f245630b74067e84c155423727/README.md
